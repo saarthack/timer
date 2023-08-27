@@ -11,3 +11,9 @@ setInterval(function(){
     h1.innerHTML = grow + "%"
   }
 }, Math.floor(Math.random()*200))
+
+
+
+// git add .
+// git commit -m"aapka message"
+// git push -u origin main

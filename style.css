@@ -1,6 +1,6 @@
 @font-face {
   font-family: vanguard cf;
-  src: url(./vanguard.otf);
+  src: url(./Vanguard_CF.ttf);
 }
 
 * {
@@ -18,7 +18,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(11, 173, 108);
+  background-color: rgb(12, 125, 80);
 }
 
 h1{
